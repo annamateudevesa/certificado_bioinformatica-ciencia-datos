@@ -1,0 +1,15 @@
+16  pwd
+17  whoami
+18  pwd
+19  ls -lah
+20  cd proyecto_biotec/fcb_material_practica1
+21  pwd
+22  ls -lah
+23  ls -a
+24  ls -lh
+25  man ls
+26  ls -lS fcb_material_practica1 fcb_material_practica1/analisis_previos
+27  cat README.txt
+28  man ls
+29  history
+30  history > proyecto_biotec/scripts/historial_comandos_A.txt

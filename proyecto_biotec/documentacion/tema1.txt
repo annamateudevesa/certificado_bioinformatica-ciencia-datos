@@ -1,0 +1,8 @@
+El kernel es la parte principal del sistema operativo. Controla el hardware, la memoria y el procesador.
+
+La shell interpreta los comandos que escribimos. La terminal es la ventana donde escribimos esos comandos.
+
+Linux es muy usado en bioinformática porque permite trabajar con muchos datos, automatizar tareas y usar muchas herramientas científicas.
+
+
+

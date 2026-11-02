@@ -1,0 +1,16 @@
+   167  cd ..
+  168  cd documentacion
+  169  touch documentacion.txt
+  170  clear
+  171  cd proyecto_biotec
+  172  cd documentacion
+  173  cat > tema1.txt
+  174  cd proyecto_biotec
+  175  cd documentacion
+  176  ls
+  177  cat tema1.txt
+  178  history
+  179  history > proyecto_biotec/scripts/historial_comandos_B.txt
+  180  history > historial_comandos_B.txt/scripts/proyecto_biotec
+  181  cd ..
+  182  cd ..
